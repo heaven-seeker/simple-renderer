@@ -2,3 +2,4 @@ frames/
 *.mp4
 *.tga
 .idea/
+/build/
